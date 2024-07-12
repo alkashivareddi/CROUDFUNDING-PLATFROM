@@ -3,10 +3,6 @@
 Creating a crowdfunding platform involves several components such as user interface design, payment integration, project management, and user authentication. Below, I'll outline a basic structure using HTML, CSS, and JavaScript to build a simple crowdfunding platform.
 Certainly! A README file is essential for providing information about your crowdfunding platform project, its purpose, how to set it up, and any other relevant details for users and developers. Below is a template for a README file tailored to a crowdfunding platform project:
 
----
-
-# Crowdfunding Platform
-
 ## Description
 
 This project is a basic implementation of a crowdfunding platform where users can create projects and seek funding from other users.
